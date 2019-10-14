@@ -1,0 +1,8 @@
+export interface EmployeeEv {
+  name: string;
+  salary: string;
+  id: string;
+  date: string;
+
+
+}
